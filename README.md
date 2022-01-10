@@ -1,10 +1,10 @@
 ⭐️ Hi, I’m Anna  
 
-⭐️ Currently studying backend development at School 21 https://21-school.ru  
+⭐️ Currently learning backend-development at School 21 https://21-school.ru  
 
-⭐️ Also studying frontend development at RS School https://rs.school  
+⭐️ Also learning frontend-development at RS School https://rs.school  
 
-⭐️ C, Python  
+⭐️ C, Python , JavaScript
 
 ⭐️ HTML, CSS  
 
